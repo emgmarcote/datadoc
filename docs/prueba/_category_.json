@@ -1,8 +1,0 @@
-{
-  "label": "Prueba",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "En esta sección vamos a probar las funcionalidades de Docusaurus"
-  }
-}

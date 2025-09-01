@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatadoc=self.webpackChunkdatadoc||[]).push([[1665],{2367:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/datadoc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
