@@ -20,15 +20,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://blue-plant-085915603.2.azurestaticapps.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'emgmarcote', // Usually your GitHub org/user name.
+  projectName: 'datadoc', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // The branch to deploy to.
+  trailingSlash: false, // Add trailing slashes to the generated HTML.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
