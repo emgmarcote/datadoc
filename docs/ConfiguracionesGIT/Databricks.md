@@ -41,7 +41,7 @@ Con este paso veremos la carpeta del proyecto dentro de "repositorio" en databri
 
 ## Subir los cambios a GitHub
 
-Vamos a "main" desde la carpeta del repositorio
+Vamos a "main" desde la carpeta del repositorio:
 ![Locale Dropdown](./img/repo5.png)
 
 Se abre una nueva ventana donde se pueden ver en la izquierda los cambios realizados y por defecto están seleccionados
