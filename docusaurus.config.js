@@ -81,6 +81,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      algolia: {
+        
+        appId: "W8MCE0HUWR",
+
+        apiKey: "3d67101091ac32a787d0a26d5aa95f34",
+
+        indexName: "The Index name for your site",
+
+        // Optional: 
+        contextualSearch: false,
+
+        
+        replaceSearchResultPathname: {
+          from: "/docs/", // or as RegExp: /\/docs\//
+          to: "/",
+        },
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'My Site',
